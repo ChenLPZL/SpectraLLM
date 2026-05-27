@@ -81,3 +81,4 @@ if __name__ == "__main__":
 
     print(f"\n{'='*40}")
     print("All tests passed!" if all_passed else "Some tests FAILED!")
+    print("Finished!")
